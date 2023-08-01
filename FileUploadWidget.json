@@ -12,8 +12,8 @@
 		{
 			"kind": "main",
 			"tag": "custom-button",
-			"url": "https://kandpalpranav.github.io/CustomWidget/Webcomponent.js",
-			"integrity": ""	,
+			"url": "",
+			"integrity": ""	,https://github.com/moin-akhter/fileupload/blob/main/FileUpload.js
 			"ignoreIntegrity": true
 			
 		}		
@@ -30,12 +30,12 @@
 	},
 	"methods": {
 		"clear": {
-			"description": "MOIN - Clear the resultset"
+			"description": "Clear the resultset"
 		}
 	},
 	"events": {
 		"onClick": {
-			"description": "MOIN - Called when the user clicks the button."
+			"description": "Called when the user clicks the button."
 		}
 	}
 }
