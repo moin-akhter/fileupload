@@ -12,8 +12,8 @@
 		{
 			"kind": "main",
 			"tag": "custom-button",
-			"url": "",
-			"integrity": ""	, "https://github.com/moin-akhter/fileupload/blob/main/FileUpload.js"
+			"url": "https://github.com/moin-akhter/fileupload/blob/main/FileUpload.js",
+			"integrity": ""	, 
 			"ignoreIntegrity": true
 			
 		}		
