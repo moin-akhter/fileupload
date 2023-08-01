@@ -6,7 +6,7 @@
 	"vendor": "Moin",
 	"license": "",
 	"id": "fileuploadwidget",
-	"version": "0.1",
+	"version": "1.0.1",
 	"icon": "",
 	"webcomponents": [
 		{
